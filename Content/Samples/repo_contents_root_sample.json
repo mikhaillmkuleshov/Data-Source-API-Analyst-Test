@@ -1,0 +1,2770 @@
+[
+  {
+    "name": ".gitattributes",
+    "path": ".gitattributes",
+    "sha": "7d570162d66fdf09c19e97682b567b58deca4cd5",
+    "size": 128,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/.gitattributes?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/blob/master/.gitattributes",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/blobs/7d570162d66fdf09c19e97682b567b58deca4cd5",
+    "download_url": "https://raw.githubusercontent.com/fivethirtyeight/data/master/.gitattributes",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/.gitattributes?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/blobs/7d570162d66fdf09c19e97682b567b58deca4cd5",
+      "html": "https://github.com/fivethirtyeight/data/blob/master/.gitattributes"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "85783f34f79bc1396cca4dc0dd706e5d6a43990c",
+    "size": 29,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/blobs/85783f34f79bc1396cca4dc0dd706e5d6a43990c",
+    "download_url": "https://raw.githubusercontent.com/fivethirtyeight/data/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/blobs/85783f34f79bc1396cca4dc0dd706e5d6a43990c",
+      "html": "https://github.com/fivethirtyeight/data/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "2f244ac814036ecd9ba9f69782e89ce6b1dca9eb",
+    "size": 18650,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/LICENSE?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/blob/master/LICENSE",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/blobs/2f244ac814036ecd9ba9f69782e89ce6b1dca9eb",
+    "download_url": "https://raw.githubusercontent.com/fivethirtyeight/data/master/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/LICENSE?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/blobs/2f244ac814036ecd9ba9f69782e89ce6b1dca9eb",
+      "html": "https://github.com/fivethirtyeight/data/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "4374bdf0108c9d564ceb79c4f4aebf6e7ceb8e2f",
+    "size": 761,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/README.md?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/blobs/4374bdf0108c9d564ceb79c4f4aebf6e7ceb8e2f",
+    "download_url": "https://raw.githubusercontent.com/fivethirtyeight/data/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/blobs/4374bdf0108c9d564ceb79c4f4aebf6e7ceb8e2f",
+      "html": "https://github.com/fivethirtyeight/data/blob/master/README.md"
+    }
+  },
+  {
+    "name": "ahca-polls",
+    "path": "ahca-polls",
+    "sha": "5d22d3ffcb4ab60436c8c7742d21ebe05644b2f0",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/ahca-polls?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/ahca-polls",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/5d22d3ffcb4ab60436c8c7742d21ebe05644b2f0",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/ahca-polls?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/5d22d3ffcb4ab60436c8c7742d21ebe05644b2f0",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/ahca-polls"
+    }
+  },
+  {
+    "name": "airline-safety",
+    "path": "airline-safety",
+    "sha": "eba6033d69cf08c49533d7730ebd908d179c4743",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/airline-safety?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/airline-safety",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/eba6033d69cf08c49533d7730ebd908d179c4743",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/airline-safety?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/eba6033d69cf08c49533d7730ebd908d179c4743",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/airline-safety"
+    }
+  },
+  {
+    "name": "alcohol-consumption",
+    "path": "alcohol-consumption",
+    "sha": "2a1443e743ad696de40dbabdeaf6aa3f2bb81e8b",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/alcohol-consumption?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/alcohol-consumption",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/2a1443e743ad696de40dbabdeaf6aa3f2bb81e8b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/alcohol-consumption?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/2a1443e743ad696de40dbabdeaf6aa3f2bb81e8b",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/alcohol-consumption"
+    }
+  },
+  {
+    "name": "antiquities-act",
+    "path": "antiquities-act",
+    "sha": "b42f05c8c660e64734e2443b3f619bb23de6fdeb",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/antiquities-act?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/antiquities-act",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/b42f05c8c660e64734e2443b3f619bb23de6fdeb",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/antiquities-act?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/b42f05c8c660e64734e2443b3f619bb23de6fdeb",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/antiquities-act"
+    }
+  },
+  {
+    "name": "august-senate-polls",
+    "path": "august-senate-polls",
+    "sha": "bf772b8b089fc3554cc35527a45d94b79b8bc96e",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/august-senate-polls?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/august-senate-polls",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/bf772b8b089fc3554cc35527a45d94b79b8bc96e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/august-senate-polls?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/bf772b8b089fc3554cc35527a45d94b79b8bc96e",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/august-senate-polls"
+    }
+  },
+  {
+    "name": "avengers",
+    "path": "avengers",
+    "sha": "80762626562b5651efd565ef7bed7b2279734bc1",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/avengers?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/avengers",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/80762626562b5651efd565ef7bed7b2279734bc1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/avengers?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/80762626562b5651efd565ef7bed7b2279734bc1",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/avengers"
+    }
+  },
+  {
+    "name": "bachelorette",
+    "path": "bachelorette",
+    "sha": "6dfb677cc00e1b513b739f8140fc82de84873e99",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/bachelorette?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/bachelorette",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/6dfb677cc00e1b513b739f8140fc82de84873e99",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/bachelorette?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/6dfb677cc00e1b513b739f8140fc82de84873e99",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/bachelorette"
+    }
+  },
+  {
+    "name": "bad-drivers",
+    "path": "bad-drivers",
+    "sha": "c41c85d8b8c88a0652e5d1be9b99e0babfaa0431",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/bad-drivers?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/bad-drivers",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/c41c85d8b8c88a0652e5d1be9b99e0babfaa0431",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/bad-drivers?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/c41c85d8b8c88a0652e5d1be9b99e0babfaa0431",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/bad-drivers"
+    }
+  },
+  {
+    "name": "bechdel",
+    "path": "bechdel",
+    "sha": "4acd8b87a1d439e17e8f64cce84832181b09c5e2",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/bechdel?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/bechdel",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/4acd8b87a1d439e17e8f64cce84832181b09c5e2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/bechdel?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/4acd8b87a1d439e17e8f64cce84832181b09c5e2",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/bechdel"
+    }
+  },
+  {
+    "name": "biopics",
+    "path": "biopics",
+    "sha": "2e97a7389adc2dce1796372368aff39b6d12a3cb",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/biopics?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/biopics",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/2e97a7389adc2dce1796372368aff39b6d12a3cb",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/biopics?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/2e97a7389adc2dce1796372368aff39b6d12a3cb",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/biopics"
+    }
+  },
+  {
+    "name": "births",
+    "path": "births",
+    "sha": "b144781416d060d86740f2e581e3487c0771ac14",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/births?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/births",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/b144781416d060d86740f2e581e3487c0771ac14",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/births?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/b144781416d060d86740f2e581e3487c0771ac14",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/births"
+    }
+  },
+  {
+    "name": "bob-ross",
+    "path": "bob-ross",
+    "sha": "c6c30d1bd72a0ac005b0b0aa6e8015896c59e2b1",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/bob-ross?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/bob-ross",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/c6c30d1bd72a0ac005b0b0aa6e8015896c59e2b1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/bob-ross?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/c6c30d1bd72a0ac005b0b0aa6e8015896c59e2b1",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/bob-ross"
+    }
+  },
+  {
+    "name": "buster-posey-mvp",
+    "path": "buster-posey-mvp",
+    "sha": "b7a7fb98275f91c11d9b1590f4f179f452a025b8",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/buster-posey-mvp?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/buster-posey-mvp",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/b7a7fb98275f91c11d9b1590f4f179f452a025b8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/buster-posey-mvp?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/b7a7fb98275f91c11d9b1590f4f179f452a025b8",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/buster-posey-mvp"
+    }
+  },
+  {
+    "name": "cabinet-turnover",
+    "path": "cabinet-turnover",
+    "sha": "6679c9fd6cfc493e2e1ee7cd1d3f215045bb3555",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/cabinet-turnover?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/cabinet-turnover",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/6679c9fd6cfc493e2e1ee7cd1d3f215045bb3555",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/cabinet-turnover?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/6679c9fd6cfc493e2e1ee7cd1d3f215045bb3555",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/cabinet-turnover"
+    }
+  },
+  {
+    "name": "candy-power-ranking",
+    "path": "candy-power-ranking",
+    "sha": "cd3b27c1403c88d3227d6c6506f133994dffa1e8",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/candy-power-ranking?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/candy-power-ranking",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/cd3b27c1403c88d3227d6c6506f133994dffa1e8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/candy-power-ranking?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/cd3b27c1403c88d3227d6c6506f133994dffa1e8",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/candy-power-ranking"
+    }
+  },
+  {
+    "name": "chess-transfers",
+    "path": "chess-transfers",
+    "sha": "6e2ac60b5b3b55bc4a7261a1c2f0dbd2ec40a9da",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/chess-transfers?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/chess-transfers",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/6e2ac60b5b3b55bc4a7261a1c2f0dbd2ec40a9da",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/chess-transfers?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/6e2ac60b5b3b55bc4a7261a1c2f0dbd2ec40a9da",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/chess-transfers"
+    }
+  },
+  {
+    "name": "classic-rock",
+    "path": "classic-rock",
+    "sha": "2b4ff699f1d0429da80ff57625900612b33ba2c8",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/classic-rock?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/classic-rock",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/2b4ff699f1d0429da80ff57625900612b33ba2c8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/classic-rock?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/2b4ff699f1d0429da80ff57625900612b33ba2c8",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/classic-rock"
+    }
+  },
+  {
+    "name": "college-majors",
+    "path": "college-majors",
+    "sha": "ff8c4da6e29e15fba8ab3f800abd9d0e7c26fd0b",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/college-majors?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/college-majors",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/ff8c4da6e29e15fba8ab3f800abd9d0e7c26fd0b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/college-majors?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/ff8c4da6e29e15fba8ab3f800abd9d0e7c26fd0b",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/college-majors"
+    }
+  },
+  {
+    "name": "comic-characters",
+    "path": "comic-characters",
+    "sha": "e492077fc2521b47a4a1d49d096fb7389d3db2db",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/comic-characters?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/comic-characters",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/e492077fc2521b47a4a1d49d096fb7389d3db2db",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/comic-characters?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/e492077fc2521b47a4a1d49d096fb7389d3db2db",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/comic-characters"
+    }
+  },
+  {
+    "name": "comma-survey",
+    "path": "comma-survey",
+    "sha": "e0d1fcbcef2710afefc7fea836c7844472f1bbc5",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/comma-survey?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/comma-survey",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/e0d1fcbcef2710afefc7fea836c7844472f1bbc5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/comma-survey?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/e0d1fcbcef2710afefc7fea836c7844472f1bbc5",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/comma-survey"
+    }
+  },
+  {
+    "name": "congress-age",
+    "path": "congress-age",
+    "sha": "63b4debfdb1c6b1e8f033233abc94f05a05cec95",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/congress-age?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/congress-age",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/63b4debfdb1c6b1e8f033233abc94f05a05cec95",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/congress-age?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/63b4debfdb1c6b1e8f033233abc94f05a05cec95",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/congress-age"
+    }
+  },
+  {
+    "name": "congress-biden-score",
+    "path": "congress-biden-score",
+    "sha": "fb5add920796c930d15eb7bc341ef08a972e1a72",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/congress-biden-score?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/congress-biden-score",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/fb5add920796c930d15eb7bc341ef08a972e1a72",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/congress-biden-score?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/fb5add920796c930d15eb7bc341ef08a972e1a72",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/congress-biden-score"
+    }
+  },
+  {
+    "name": "congress-demographics",
+    "path": "congress-demographics",
+    "sha": "f4c827b753d9f4932e3d4968268dce22004f5668",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/congress-demographics?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/congress-demographics",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/f4c827b753d9f4932e3d4968268dce22004f5668",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/congress-demographics?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/f4c827b753d9f4932e3d4968268dce22004f5668",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/congress-demographics"
+    }
+  },
+  {
+    "name": "congress-generic-ballot",
+    "path": "congress-generic-ballot",
+    "sha": "ec1097a6cb7a2998f2570cf22e587fe4ef8f2263",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/congress-generic-ballot?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/congress-generic-ballot",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/ec1097a6cb7a2998f2570cf22e587fe4ef8f2263",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/congress-generic-ballot?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/ec1097a6cb7a2998f2570cf22e587fe4ef8f2263",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/congress-generic-ballot"
+    }
+  },
+  {
+    "name": "congress-resignations",
+    "path": "congress-resignations",
+    "sha": "6e244290efc5f5a3cab20caeee0e840fa984ddc6",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/congress-resignations?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/congress-resignations",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/6e244290efc5f5a3cab20caeee0e840fa984ddc6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/congress-resignations?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/6e244290efc5f5a3cab20caeee0e840fa984ddc6",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/congress-resignations"
+    }
+  },
+  {
+    "name": "congress-trump-score",
+    "path": "congress-trump-score",
+    "sha": "f872134431683a7af2d49a33ca6ab9a4f4d5b673",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/congress-trump-score?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/congress-trump-score",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/f872134431683a7af2d49a33ca6ab9a4f4d5b673",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/congress-trump-score?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/f872134431683a7af2d49a33ca6ab9a4f4d5b673",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/congress-trump-score"
+    }
+  },
+  {
+    "name": "cousin-marriage",
+    "path": "cousin-marriage",
+    "sha": "c8337a47467e0e416325af09aca3e1869906816a",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/cousin-marriage?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/cousin-marriage",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/c8337a47467e0e416325af09aca3e1869906816a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/cousin-marriage?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/c8337a47467e0e416325af09aca3e1869906816a",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/cousin-marriage"
+    }
+  },
+  {
+    "name": "covid-geography",
+    "path": "covid-geography",
+    "sha": "d2dc365d2514c9d099647b912f6f35e8f7ecb578",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/covid-geography?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/covid-geography",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/d2dc365d2514c9d099647b912f6f35e8f7ecb578",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/covid-geography?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/d2dc365d2514c9d099647b912f6f35e8f7ecb578",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/covid-geography"
+    }
+  },
+  {
+    "name": "daily-show-guests",
+    "path": "daily-show-guests",
+    "sha": "341d809b209584a39bd7c032000707d043bf83a7",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/daily-show-guests?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/daily-show-guests",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/341d809b209584a39bd7c032000707d043bf83a7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/daily-show-guests?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/341d809b209584a39bd7c032000707d043bf83a7",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/daily-show-guests"
+    }
+  },
+  {
+    "name": "democratic-bench",
+    "path": "democratic-bench",
+    "sha": "aef07e4cebe5331e74133284e5edb5d62d6aad68",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/democratic-bench?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/democratic-bench",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/aef07e4cebe5331e74133284e5edb5d62d6aad68",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/democratic-bench?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/aef07e4cebe5331e74133284e5edb5d62d6aad68",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/democratic-bench"
+    }
+  },
+  {
+    "name": "district-urbanization-index-2022",
+    "path": "district-urbanization-index-2022",
+    "sha": "46e0738b69e1571e63f7be943b72eef108f5bfa5",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/district-urbanization-index-2022?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/district-urbanization-index-2022",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/46e0738b69e1571e63f7be943b72eef108f5bfa5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/district-urbanization-index-2022?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/46e0738b69e1571e63f7be943b72eef108f5bfa5",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/district-urbanization-index-2022"
+    }
+  },
+  {
+    "name": "drug-use-by-age",
+    "path": "drug-use-by-age",
+    "sha": "51a5c9546e04dfc47e5ec8a4daf2c3d094c8844b",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/drug-use-by-age?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/drug-use-by-age",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/51a5c9546e04dfc47e5ec8a4daf2c3d094c8844b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/drug-use-by-age?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/51a5c9546e04dfc47e5ec8a4daf2c3d094c8844b",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/drug-use-by-age"
+    }
+  },
+  {
+    "name": "early-senate-polls",
+    "path": "early-senate-polls",
+    "sha": "7e548ec702b94c9181da6f11dfc845c9349742a3",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/early-senate-polls?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/early-senate-polls",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/7e548ec702b94c9181da6f11dfc845c9349742a3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/early-senate-polls?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/7e548ec702b94c9181da6f11dfc845c9349742a3",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/early-senate-polls"
+    }
+  },
+  {
+    "name": "election-deniers",
+    "path": "election-deniers",
+    "sha": "395ada59c9afd1935a9e94192def54db12647e78",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/election-deniers?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/election-deniers",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/395ada59c9afd1935a9e94192def54db12647e78",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/election-deniers?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/395ada59c9afd1935a9e94192def54db12647e78",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/election-deniers"
+    }
+  },
+  {
+    "name": "election-forecasts-2020",
+    "path": "election-forecasts-2020",
+    "sha": "7a556514214e5354ed3d4134850873ec7a59ba03",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/election-forecasts-2020?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/election-forecasts-2020",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/7a556514214e5354ed3d4134850873ec7a59ba03",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/election-forecasts-2020?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/7a556514214e5354ed3d4134850873ec7a59ba03",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/election-forecasts-2020"
+    }
+  },
+  {
+    "name": "election-forecasts-2022",
+    "path": "election-forecasts-2022",
+    "sha": "294a74e8f7faea71494c029b3cf6c8cebcc520ac",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/election-forecasts-2022?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/election-forecasts-2022",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/294a74e8f7faea71494c029b3cf6c8cebcc520ac",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/election-forecasts-2022?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/294a74e8f7faea71494c029b3cf6c8cebcc520ac",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/election-forecasts-2022"
+    }
+  },
+  {
+    "name": "elo-blatter",
+    "path": "elo-blatter",
+    "sha": "f0fb96583917ed5064817e2e7bc064a13b786e8f",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/elo-blatter?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/elo-blatter",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/f0fb96583917ed5064817e2e7bc064a13b786e8f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/elo-blatter?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/f0fb96583917ed5064817e2e7bc064a13b786e8f",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/elo-blatter"
+    }
+  },
+  {
+    "name": "endorsements-june-30",
+    "path": "endorsements-june-30",
+    "sha": "7f3106423306fed999a180cd855b323b8f5824b5",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/endorsements-june-30?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/endorsements-june-30",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/7f3106423306fed999a180cd855b323b8f5824b5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/endorsements-june-30?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/7f3106423306fed999a180cd855b323b8f5824b5",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/endorsements-june-30"
+    }
+  },
+  {
+    "name": "endorsements",
+    "path": "endorsements",
+    "sha": "d15c228da3f7f41c628441817e5c93c98f109358",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/endorsements?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/endorsements",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/d15c228da3f7f41c628441817e5c93c98f109358",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/endorsements?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/d15c228da3f7f41c628441817e5c93c98f109358",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/endorsements"
+    }
+  },
+  {
+    "name": "fandango",
+    "path": "fandango",
+    "sha": "96e6448bf845ba7a730d698c27d65ad0163075d3",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/fandango?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/fandango",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/96e6448bf845ba7a730d698c27d65ad0163075d3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/fandango?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/96e6448bf845ba7a730d698c27d65ad0163075d3",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/fandango"
+    }
+  },
+  {
+    "name": "fifa",
+    "path": "fifa",
+    "sha": "6d0dce8455836dd3ff492ef977ce3a6ca41f68bb",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/fifa?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/fifa",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/6d0dce8455836dd3ff492ef977ce3a6ca41f68bb",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/fifa?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/6d0dce8455836dd3ff492ef977ce3a6ca41f68bb",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/fifa"
+    }
+  },
+  {
+    "name": "fight-songs",
+    "path": "fight-songs",
+    "sha": "0217b55d9276e7352c2db2bca260b411b6041c0c",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/fight-songs?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/fight-songs",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/0217b55d9276e7352c2db2bca260b411b6041c0c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/fight-songs?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/0217b55d9276e7352c2db2bca260b411b6041c0c",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/fight-songs"
+    }
+  },
+  {
+    "name": "flying-etiquette-survey",
+    "path": "flying-etiquette-survey",
+    "sha": "c8e9948c04b7219658afc4e107bd6a11d717ffcc",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/flying-etiquette-survey?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/flying-etiquette-survey",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/c8e9948c04b7219658afc4e107bd6a11d717ffcc",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/flying-etiquette-survey?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/c8e9948c04b7219658afc4e107bd6a11d717ffcc",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/flying-etiquette-survey"
+    }
+  },
+  {
+    "name": "food-world-cup",
+    "path": "food-world-cup",
+    "sha": "829b1a77504cb3c2000638fa41f50180377f5431",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/food-world-cup?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/food-world-cup",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/829b1a77504cb3c2000638fa41f50180377f5431",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/food-world-cup?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/829b1a77504cb3c2000638fa41f50180377f5431",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/food-world-cup"
+    }
+  },
+  {
+    "name": "forecast-methodology",
+    "path": "forecast-methodology",
+    "sha": "368ee9e346e07d99946715dcad1220c5be9b4a1f",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/forecast-methodology?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/forecast-methodology",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/368ee9e346e07d99946715dcad1220c5be9b4a1f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/forecast-methodology?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/368ee9e346e07d99946715dcad1220c5be9b4a1f",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/forecast-methodology"
+    }
+  },
+  {
+    "name": "forecast-review",
+    "path": "forecast-review",
+    "sha": "5db92d488795da128b92a0ba30bc899852bd2575",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/forecast-review?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/forecast-review",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/5db92d488795da128b92a0ba30bc899852bd2575",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/forecast-review?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/5db92d488795da128b92a0ba30bc899852bd2575",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/forecast-review"
+    }
+  },
+  {
+    "name": "foul-balls",
+    "path": "foul-balls",
+    "sha": "c09982b839aaa27d98eb9332c87a4f99ba00fe84",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/foul-balls?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/foul-balls",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/c09982b839aaa27d98eb9332c87a4f99ba00fe84",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/foul-balls?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/c09982b839aaa27d98eb9332c87a4f99ba00fe84",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/foul-balls"
+    }
+  },
+  {
+    "name": "goose",
+    "path": "goose",
+    "sha": "96181e288272def1e36a994c328e6acfd3372140",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/goose?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/goose",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/96181e288272def1e36a994c328e6acfd3372140",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/goose?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/96181e288272def1e36a994c328e6acfd3372140",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/goose"
+    }
+  },
+  {
+    "name": "gop-candidate-visits-2024",
+    "path": "gop-candidate-visits-2024",
+    "sha": "cda6f4cad028d00c82b516293b66d907131d702c",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/gop-candidate-visits-2024?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/gop-candidate-visits-2024",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/cda6f4cad028d00c82b516293b66d907131d702c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/gop-candidate-visits-2024?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/cda6f4cad028d00c82b516293b66d907131d702c",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/gop-candidate-visits-2024"
+    }
+  },
+  {
+    "name": "gop-delegate-benchmarks-2024",
+    "path": "gop-delegate-benchmarks-2024",
+    "sha": "314fce7065b7e04c97dcfe6534a040bb00d12610",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/gop-delegate-benchmarks-2024?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/gop-delegate-benchmarks-2024",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/314fce7065b7e04c97dcfe6534a040bb00d12610",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/gop-delegate-benchmarks-2024?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/314fce7065b7e04c97dcfe6534a040bb00d12610",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/gop-delegate-benchmarks-2024"
+    }
+  },
+  {
+    "name": "governors-forecast-2018",
+    "path": "governors-forecast-2018",
+    "sha": "becdaf19cac18a4c23903f4fa9fe5557488bb338",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/governors-forecast-2018?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/governors-forecast-2018",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/becdaf19cac18a4c23903f4fa9fe5557488bb338",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/governors-forecast-2018?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/becdaf19cac18a4c23903f4fa9fe5557488bb338",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/governors-forecast-2018"
+    }
+  },
+  {
+    "name": "hate-crimes",
+    "path": "hate-crimes",
+    "sha": "36c09659aaea13436f0276e2faa8c4fc478f40be",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/hate-crimes?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/hate-crimes",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/36c09659aaea13436f0276e2faa8c4fc478f40be",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/hate-crimes?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/36c09659aaea13436f0276e2faa8c4fc478f40be",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/hate-crimes"
+    }
+  },
+  {
+    "name": "hip-hop-candidate-lyrics",
+    "path": "hip-hop-candidate-lyrics",
+    "sha": "4117940901574a1fe96a3dafe5eb289d949100ac",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/hip-hop-candidate-lyrics?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/hip-hop-candidate-lyrics",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/4117940901574a1fe96a3dafe5eb289d949100ac",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/hip-hop-candidate-lyrics?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/4117940901574a1fe96a3dafe5eb289d949100ac",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/hip-hop-candidate-lyrics"
+    }
+  },
+  {
+    "name": "historical-ncaa-forecasts",
+    "path": "historical-ncaa-forecasts",
+    "sha": "c64fb1bdd78e0b95aedbb0847e1f09cb216039d7",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/historical-ncaa-forecasts?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/historical-ncaa-forecasts",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/c64fb1bdd78e0b95aedbb0847e1f09cb216039d7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/historical-ncaa-forecasts?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/c64fb1bdd78e0b95aedbb0847e1f09cb216039d7",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/historical-ncaa-forecasts"
+    }
+  },
+  {
+    "name": "house-forecast-2018",
+    "path": "house-forecast-2018",
+    "sha": "ee66ad9fd4ed593c8b182fbf48487129758b427c",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/house-forecast-2018?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/house-forecast-2018",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/ee66ad9fd4ed593c8b182fbf48487129758b427c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/house-forecast-2018?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/ee66ad9fd4ed593c8b182fbf48487129758b427c",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/house-forecast-2018"
+    }
+  },
+  {
+    "name": "impeachment-polls",
+    "path": "impeachment-polls",
+    "sha": "6a33e5531e648423b02bca9a19ba87b711a21768",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/impeachment-polls?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/impeachment-polls",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/6a33e5531e648423b02bca9a19ba87b711a21768",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/impeachment-polls?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/6a33e5531e648423b02bca9a19ba87b711a21768",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/impeachment-polls"
+    }
+  },
+  {
+    "name": "inconvenient-sequel",
+    "path": "inconvenient-sequel",
+    "sha": "e7f4dd866ad45e0c4864bd70dcd27030ca03cea0",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/inconvenient-sequel?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/inconvenient-sequel",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/e7f4dd866ad45e0c4864bd70dcd27030ca03cea0",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/inconvenient-sequel?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/e7f4dd866ad45e0c4864bd70dcd27030ca03cea0",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/inconvenient-sequel"
+    }
+  },
+  {
+    "name": "index.csv",
+    "path": "index.csv",
+    "sha": "89b494caabfb1126d4efd13e09c77dadebcce250",
+    "size": 37803,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/index.csv?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/blob/master/index.csv",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/blobs/89b494caabfb1126d4efd13e09c77dadebcce250",
+    "download_url": "https://raw.githubusercontent.com/fivethirtyeight/data/master/index.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/index.csv?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/blobs/89b494caabfb1126d4efd13e09c77dadebcce250",
+      "html": "https://github.com/fivethirtyeight/data/blob/master/index.csv"
+    }
+  },
+  {
+    "name": "infrastructure-jobs",
+    "path": "infrastructure-jobs",
+    "sha": "803b7885235d3b9c4f3052caf0aeb275e9866d49",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/infrastructure-jobs?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/infrastructure-jobs",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/803b7885235d3b9c4f3052caf0aeb275e9866d49",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/infrastructure-jobs?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/803b7885235d3b9c4f3052caf0aeb275e9866d49",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/infrastructure-jobs"
+    }
+  },
+  {
+    "name": "lebron",
+    "path": "lebron",
+    "sha": "0e6ff102cf5fa714288a467bec22fc99677cccb4",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/lebron?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/lebron",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/0e6ff102cf5fa714288a467bec22fc99677cccb4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/lebron?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/0e6ff102cf5fa714288a467bec22fc99677cccb4",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/lebron"
+    }
+  },
+  {
+    "name": "librarians",
+    "path": "librarians",
+    "sha": "2a9fb64e7c0e678a50ab482ed33d8fe90014aaf3",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/librarians?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/librarians",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/2a9fb64e7c0e678a50ab482ed33d8fe90014aaf3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/librarians?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/2a9fb64e7c0e678a50ab482ed33d8fe90014aaf3",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/librarians"
+    }
+  },
+  {
+    "name": "love-actually",
+    "path": "love-actually",
+    "sha": "a956bc977e4af3f8860b840697444b30a6784226",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/love-actually?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/love-actually",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/a956bc977e4af3f8860b840697444b30a6784226",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/love-actually?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/a956bc977e4af3f8860b840697444b30a6784226",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/love-actually"
+    }
+  },
+  {
+    "name": "mad-men",
+    "path": "mad-men",
+    "sha": "1a90df094bcdfeef8ae76a6f2619c5f277a12f21",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/mad-men?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/mad-men",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/1a90df094bcdfeef8ae76a6f2619c5f277a12f21",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/mad-men?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/1a90df094bcdfeef8ae76a6f2619c5f277a12f21",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/mad-men"
+    }
+  },
+  {
+    "name": "male-flight-attendants",
+    "path": "male-flight-attendants",
+    "sha": "fda99ac8d4f0a69eb8ebf336a7b22767762aeae5",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/male-flight-attendants?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/male-flight-attendants",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/fda99ac8d4f0a69eb8ebf336a7b22767762aeae5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/male-flight-attendants?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/fda99ac8d4f0a69eb8ebf336a7b22767762aeae5",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/male-flight-attendants"
+    }
+  },
+  {
+    "name": "march-madness-predictions-2015",
+    "path": "march-madness-predictions-2015",
+    "sha": "2c6c0cfa5e8a2015de0dcba39bf4144404ab724c",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/march-madness-predictions-2015?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/march-madness-predictions-2015",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/2c6c0cfa5e8a2015de0dcba39bf4144404ab724c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/march-madness-predictions-2015?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/2c6c0cfa5e8a2015de0dcba39bf4144404ab724c",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/march-madness-predictions-2015"
+    }
+  },
+  {
+    "name": "march-madness-predictions-2018",
+    "path": "march-madness-predictions-2018",
+    "sha": "cf18379eaef0530c377e30e28ac1b0d358092929",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/march-madness-predictions-2018?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/march-madness-predictions-2018",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/cf18379eaef0530c377e30e28ac1b0d358092929",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/march-madness-predictions-2018?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/cf18379eaef0530c377e30e28ac1b0d358092929",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/march-madness-predictions-2018"
+    }
+  },
+  {
+    "name": "march-madness-predictions",
+    "path": "march-madness-predictions",
+    "sha": "c4ff0f137734c1bdcbf301d8801db77313dd2bb7",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/march-madness-predictions?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/march-madness-predictions",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/c4ff0f137734c1bdcbf301d8801db77313dd2bb7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/march-madness-predictions?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/c4ff0f137734c1bdcbf301d8801db77313dd2bb7",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/march-madness-predictions"
+    }
+  },
+  {
+    "name": "marriage",
+    "path": "marriage",
+    "sha": "f399759665d1972fbd73c113881ade360025b7c8",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/marriage?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/marriage",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/f399759665d1972fbd73c113881ade360025b7c8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/marriage?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/f399759665d1972fbd73c113881ade360025b7c8",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/marriage"
+    }
+  },
+  {
+    "name": "masculinity-survey",
+    "path": "masculinity-survey",
+    "sha": "9cd2f02fe3875061a40d7c87b3568dddc864cb6c",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/masculinity-survey?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/masculinity-survey",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/9cd2f02fe3875061a40d7c87b3568dddc864cb6c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/masculinity-survey?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/9cd2f02fe3875061a40d7c87b3568dddc864cb6c",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/masculinity-survey"
+    }
+  },
+  {
+    "name": "mayweather-mcgregor",
+    "path": "mayweather-mcgregor",
+    "sha": "0fb71ad111927e92d49217297d9e52b7663ca2ef",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/mayweather-mcgregor?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/mayweather-mcgregor",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/0fb71ad111927e92d49217297d9e52b7663ca2ef",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/mayweather-mcgregor?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/0fb71ad111927e92d49217297d9e52b7663ca2ef",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/mayweather-mcgregor"
+    }
+  },
+  {
+    "name": "media-mentions-2020",
+    "path": "media-mentions-2020",
+    "sha": "7f54e888e2d9ee7b78156a70d1db1d0c12ababd2",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/media-mentions-2020?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/media-mentions-2020",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/7f54e888e2d9ee7b78156a70d1db1d0c12ababd2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/media-mentions-2020?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/7f54e888e2d9ee7b78156a70d1db1d0c12ababd2",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/media-mentions-2020"
+    }
+  },
+  {
+    "name": "mlb-allstar-teams",
+    "path": "mlb-allstar-teams",
+    "sha": "9ac5f9576bca0a5e4840aada32dd8c08797de798",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/mlb-allstar-teams?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/mlb-allstar-teams",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/9ac5f9576bca0a5e4840aada32dd8c08797de798",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/mlb-allstar-teams?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/9ac5f9576bca0a5e4840aada32dd8c08797de798",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/mlb-allstar-teams"
+    }
+  },
+  {
+    "name": "mlb-elo",
+    "path": "mlb-elo",
+    "sha": "e736d7a155cbef677c6eb79964b006311acdda97",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/mlb-elo?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/mlb-elo",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/e736d7a155cbef677c6eb79964b006311acdda97",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/mlb-elo?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/e736d7a155cbef677c6eb79964b006311acdda97",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/mlb-elo"
+    }
+  },
+  {
+    "name": "mlb-quasi-win-shares",
+    "path": "mlb-quasi-win-shares",
+    "sha": "d6a41fc0d0b882aa92bc40835ee9f9c4871729ca",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/mlb-quasi-win-shares?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/mlb-quasi-win-shares",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/d6a41fc0d0b882aa92bc40835ee9f9c4871729ca",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/mlb-quasi-win-shares?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/d6a41fc0d0b882aa92bc40835ee9f9c4871729ca",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/mlb-quasi-win-shares"
+    }
+  },
+  {
+    "name": "most-common-name",
+    "path": "most-common-name",
+    "sha": "108c3a785c062f3b5115ea0a288896a281f146f1",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/most-common-name?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/most-common-name",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/108c3a785c062f3b5115ea0a288896a281f146f1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/most-common-name?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/108c3a785c062f3b5115ea0a288896a281f146f1",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/most-common-name"
+    }
+  },
+  {
+    "name": "mueller-polls",
+    "path": "mueller-polls",
+    "sha": "1cfe799dc328a92380221b7715517bcdb40eb338",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/mueller-polls?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/mueller-polls",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/1cfe799dc328a92380221b7715517bcdb40eb338",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/mueller-polls?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/1cfe799dc328a92380221b7715517bcdb40eb338",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/mueller-polls"
+    }
+  },
+  {
+    "name": "murder_2016",
+    "path": "murder_2016",
+    "sha": "a08d474e7006d40f77a5ce9dee18a0edd12095a2",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/murder_2016?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/murder_2016",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/a08d474e7006d40f77a5ce9dee18a0edd12095a2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/murder_2016?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/a08d474e7006d40f77a5ce9dee18a0edd12095a2",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/murder_2016"
+    }
+  },
+  {
+    "name": "nba-draft-2015",
+    "path": "nba-draft-2015",
+    "sha": "d8de19df57bfef35c548489f7d5f3144e8dfedb9",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/nba-draft-2015?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/nba-draft-2015",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/d8de19df57bfef35c548489f7d5f3144e8dfedb9",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/nba-draft-2015?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/d8de19df57bfef35c548489f7d5f3144e8dfedb9",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/nba-draft-2015"
+    }
+  },
+  {
+    "name": "nba-draymond",
+    "path": "nba-draymond",
+    "sha": "40991ef635998cc036d72dbdf11a71abdfaff242",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/nba-draymond?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/nba-draymond",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/40991ef635998cc036d72dbdf11a71abdfaff242",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/nba-draymond?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/40991ef635998cc036d72dbdf11a71abdfaff242",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/nba-draymond"
+    }
+  },
+  {
+    "name": "nba-elo",
+    "path": "nba-elo",
+    "sha": "b268fe06df4d044af3d931640bd3be6f94a1f3e7",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/nba-elo?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/nba-elo",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/b268fe06df4d044af3d931640bd3be6f94a1f3e7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/nba-elo?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/b268fe06df4d044af3d931640bd3be6f94a1f3e7",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/nba-elo"
+    }
+  },
+  {
+    "name": "nba-forecasts",
+    "path": "nba-forecasts",
+    "sha": "d322537fc459e0f815c4edba5fca870e56b27073",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/nba-forecasts?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/nba-forecasts",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/d322537fc459e0f815c4edba5fca870e56b27073",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/nba-forecasts?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/d322537fc459e0f815c4edba5fca870e56b27073",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/nba-forecasts"
+    }
+  },
+  {
+    "name": "nba-raptor",
+    "path": "nba-raptor",
+    "sha": "f60dcd70d230c3079b408d438ed4db1b09e6e9f5",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/nba-raptor?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/nba-raptor",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/f60dcd70d230c3079b408d438ed4db1b09e6e9f5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/nba-raptor?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/f60dcd70d230c3079b408d438ed4db1b09e6e9f5",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/nba-raptor"
+    }
+  },
+  {
+    "name": "nba-tattoos",
+    "path": "nba-tattoos",
+    "sha": "462786dd3d34d4a6aeabf5b246722262ecad782d",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/nba-tattoos?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/nba-tattoos",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/462786dd3d34d4a6aeabf5b246722262ecad782d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/nba-tattoos?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/462786dd3d34d4a6aeabf5b246722262ecad782d",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/nba-tattoos"
+    }
+  },
+  {
+    "name": "nba-winprobs",
+    "path": "nba-winprobs",
+    "sha": "117dcd7352a0348b9b467bf08c2dab526b600003",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/nba-winprobs?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/nba-winprobs",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/117dcd7352a0348b9b467bf08c2dab526b600003",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/nba-winprobs?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/117dcd7352a0348b9b467bf08c2dab526b600003",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/nba-winprobs"
+    }
+  },
+  {
+    "name": "ncaa-womens-basketball-tournament",
+    "path": "ncaa-womens-basketball-tournament",
+    "sha": "025db511aae0d45d8f0750f62004e989e9c0560a",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/ncaa-womens-basketball-tournament?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/ncaa-womens-basketball-tournament",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/025db511aae0d45d8f0750f62004e989e9c0560a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/ncaa-womens-basketball-tournament?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/025db511aae0d45d8f0750f62004e989e9c0560a",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/ncaa-womens-basketball-tournament"
+    }
+  },
+  {
+    "name": "next-bechdel",
+    "path": "next-bechdel",
+    "sha": "b5bc7ded525dcf650526a5bd4f87e00daf11970f",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/next-bechdel?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/next-bechdel",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/b5bc7ded525dcf650526a5bd4f87e00daf11970f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/next-bechdel?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/b5bc7ded525dcf650526a5bd4f87e00daf11970f",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/next-bechdel"
+    }
+  },
+  {
+    "name": "nfl-elo",
+    "path": "nfl-elo",
+    "sha": "4dbfba26deb3dc1dd60bed9112cd61ede94ed48e",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/nfl-elo?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/nfl-elo",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/4dbfba26deb3dc1dd60bed9112cd61ede94ed48e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/nfl-elo?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/4dbfba26deb3dc1dd60bed9112cd61ede94ed48e",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/nfl-elo"
+    }
+  },
+  {
+    "name": "nfl-fandom",
+    "path": "nfl-fandom",
+    "sha": "06674d9991827b80ff0dc8260a7d2304b098ad01",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/nfl-fandom?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/nfl-fandom",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/06674d9991827b80ff0dc8260a7d2304b098ad01",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/nfl-fandom?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/06674d9991827b80ff0dc8260a7d2304b098ad01",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/nfl-fandom"
+    }
+  },
+  {
+    "name": "nfl-favorite-team",
+    "path": "nfl-favorite-team",
+    "sha": "017e84d360aaf2218c8ff76feb161e2f2272465f",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/nfl-favorite-team?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/nfl-favorite-team",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/017e84d360aaf2218c8ff76feb161e2f2272465f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/nfl-favorite-team?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/017e84d360aaf2218c8ff76feb161e2f2272465f",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/nfl-favorite-team"
+    }
+  },
+  {
+    "name": "nfl-suspensions",
+    "path": "nfl-suspensions",
+    "sha": "a8d5820c11f73e7bf2cc6686fbeaa183fb604f04",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/nfl-suspensions?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/nfl-suspensions",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/a8d5820c11f73e7bf2cc6686fbeaa183fb604f04",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/nfl-suspensions?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/a8d5820c11f73e7bf2cc6686fbeaa183fb604f04",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/nfl-suspensions"
+    }
+  },
+  {
+    "name": "nfl-ticket-prices",
+    "path": "nfl-ticket-prices",
+    "sha": "4a2d9d92fc42a136a353d1ff5e5ded0bc4ad7e1b",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/nfl-ticket-prices?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/nfl-ticket-prices",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/4a2d9d92fc42a136a353d1ff5e5ded0bc4ad7e1b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/nfl-ticket-prices?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/4a2d9d92fc42a136a353d1ff5e5ded0bc4ad7e1b",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/nfl-ticket-prices"
+    }
+  },
+  {
+    "name": "nfl-wide-receivers",
+    "path": "nfl-wide-receivers",
+    "sha": "3b9d63f7affadeb55f8f2d68f2d4d7cdb57931af",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/nfl-wide-receivers?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/nfl-wide-receivers",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/3b9d63f7affadeb55f8f2d68f2d4d7cdb57931af",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/nfl-wide-receivers?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/3b9d63f7affadeb55f8f2d68f2d4d7cdb57931af",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/nfl-wide-receivers"
+    }
+  },
+  {
+    "name": "nhl-forecasts",
+    "path": "nhl-forecasts",
+    "sha": "38ebb19562728762a95c79fd8e057831cedddd9d",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/nhl-forecasts?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/nhl-forecasts",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/38ebb19562728762a95c79fd8e057831cedddd9d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/nhl-forecasts?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/38ebb19562728762a95c79fd8e057831cedddd9d",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/nhl-forecasts"
+    }
+  },
+  {
+    "name": "non-voters",
+    "path": "non-voters",
+    "sha": "befbb14c75d4b41f2abaa9c3c0d3b7243686b14c",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/non-voters?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/non-voters",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/befbb14c75d4b41f2abaa9c3c0d3b7243686b14c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/non-voters?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/befbb14c75d4b41f2abaa9c3c0d3b7243686b14c",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/non-voters"
+    }
+  },
+  {
+    "name": "nutrition-studies",
+    "path": "nutrition-studies",
+    "sha": "890834847134d382d608d73a953a3eb765a317b8",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/nutrition-studies?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/nutrition-studies",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/890834847134d382d608d73a953a3eb765a317b8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/nutrition-studies?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/890834847134d382d608d73a953a3eb765a317b8",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/nutrition-studies"
+    }
+  },
+  {
+    "name": "obama-commutations",
+    "path": "obama-commutations",
+    "sha": "6f8501df3b572def0bcff9cfb7d9921727b70b99",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/obama-commutations?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/obama-commutations",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/6f8501df3b572def0bcff9cfb7d9921727b70b99",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/obama-commutations?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/6f8501df3b572def0bcff9cfb7d9921727b70b99",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/obama-commutations"
+    }
+  },
+  {
+    "name": "off-year-turnout-2023",
+    "path": "off-year-turnout-2023",
+    "sha": "a1f43d8845277d7e4e67ee0d0bbd326d9df72cf8",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/off-year-turnout-2023?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/off-year-turnout-2023",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/a1f43d8845277d7e4e67ee0d0bbd326d9df72cf8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/off-year-turnout-2023?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/a1f43d8845277d7e4e67ee0d0bbd326d9df72cf8",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/off-year-turnout-2023"
+    }
+  },
+  {
+    "name": "partisan-lean",
+    "path": "partisan-lean",
+    "sha": "c282602cd134302a33cabe6fe20ec8a7b175cbd2",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/partisan-lean?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/partisan-lean",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/c282602cd134302a33cabe6fe20ec8a7b175cbd2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/partisan-lean?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/c282602cd134302a33cabe6fe20ec8a7b175cbd2",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/partisan-lean"
+    }
+  },
+  {
+    "name": "pew-religions",
+    "path": "pew-religions",
+    "sha": "021bdfacf79899e68ac18f4e5203a9e3f2b6ca69",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/pew-religions?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/pew-religions",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/021bdfacf79899e68ac18f4e5203a9e3f2b6ca69",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/pew-religions?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/021bdfacf79899e68ac18f4e5203a9e3f2b6ca69",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/pew-religions"
+    }
+  },
+  {
+    "name": "police-deaths",
+    "path": "police-deaths",
+    "sha": "4155c9fa15ba344a9702c1a2097e0822c7992501",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/police-deaths?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/police-deaths",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/4155c9fa15ba344a9702c1a2097e0822c7992501",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/police-deaths?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/4155c9fa15ba344a9702c1a2097e0822c7992501",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/police-deaths"
+    }
+  },
+  {
+    "name": "police-killings",
+    "path": "police-killings",
+    "sha": "5100cb3bc8f378e108ea675c48e4afe701c8fb26",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/police-killings?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/police-killings",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/5100cb3bc8f378e108ea675c48e4afe701c8fb26",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/police-killings?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/5100cb3bc8f378e108ea675c48e4afe701c8fb26",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/police-killings"
+    }
+  },
+  {
+    "name": "police-locals",
+    "path": "police-locals",
+    "sha": "9c187e3b4fc2370cd3e90126581513f69e6fc93a",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/police-locals?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/police-locals",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/9c187e3b4fc2370cd3e90126581513f69e6fc93a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/police-locals?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/9c187e3b4fc2370cd3e90126581513f69e6fc93a",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/police-locals"
+    }
+  },
+  {
+    "name": "political-elasticity-scores",
+    "path": "political-elasticity-scores",
+    "sha": "881d2429042ec0aa98497813077d901114006ce4",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/political-elasticity-scores?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/political-elasticity-scores",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/881d2429042ec0aa98497813077d901114006ce4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/political-elasticity-scores?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/881d2429042ec0aa98497813077d901114006ce4",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/political-elasticity-scores"
+    }
+  },
+  {
+    "name": "poll-of-pollsters",
+    "path": "poll-of-pollsters",
+    "sha": "ac2d57c9b689321a51c90677c5c7e578ce89f036",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/poll-of-pollsters?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/poll-of-pollsters",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/ac2d57c9b689321a51c90677c5c7e578ce89f036",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/poll-of-pollsters?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/ac2d57c9b689321a51c90677c5c7e578ce89f036",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/poll-of-pollsters"
+    }
+  },
+  {
+    "name": "poll-quiz-guns",
+    "path": "poll-quiz-guns",
+    "sha": "5346e0d22220199082628d16a512231f223dbdcc",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/poll-quiz-guns?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/poll-quiz-guns",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/5346e0d22220199082628d16a512231f223dbdcc",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/poll-quiz-guns?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/5346e0d22220199082628d16a512231f223dbdcc",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/poll-quiz-guns"
+    }
+  },
+  {
+    "name": "polls",
+    "path": "polls",
+    "sha": "5977155a9f8bc5dd24eaef6e323f0510c9cc8a83",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/polls?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/polls",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/5977155a9f8bc5dd24eaef6e323f0510c9cc8a83",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/polls?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/5977155a9f8bc5dd24eaef6e323f0510c9cc8a83",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/polls"
+    }
+  },
+  {
+    "name": "pollster-ratings",
+    "path": "pollster-ratings",
+    "sha": "f9f9314fa0a5d5fc864712bdfb51b0cd18d34e08",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/pollster-ratings?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/pollster-ratings",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/f9f9314fa0a5d5fc864712bdfb51b0cd18d34e08",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/pollster-ratings?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/f9f9314fa0a5d5fc864712bdfb51b0cd18d34e08",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/pollster-ratings"
+    }
+  },
+  {
+    "name": "potential-candidates",
+    "path": "potential-candidates",
+    "sha": "11ee2a8428a809fd92e1ae385e94e2633c8d9d67",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/potential-candidates?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/potential-candidates",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/11ee2a8428a809fd92e1ae385e94e2633c8d9d67",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/potential-candidates?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/11ee2a8428a809fd92e1ae385e94e2633c8d9d67",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/potential-candidates"
+    }
+  },
+  {
+    "name": "presidential-campaign-trail",
+    "path": "presidential-campaign-trail",
+    "sha": "e7e2f8c839e6d0076f1a930eba90f82c226174f7",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/presidential-campaign-trail?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/presidential-campaign-trail",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/e7e2f8c839e6d0076f1a930eba90f82c226174f7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/presidential-campaign-trail?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/e7e2f8c839e6d0076f1a930eba90f82c226174f7",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/presidential-campaign-trail"
+    }
+  },
+  {
+    "name": "presidential-candidate-favorables-2019",
+    "path": "presidential-candidate-favorables-2019",
+    "sha": "85edbfc356ce8ef7b7108c0cbeba456ada5495c1",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/presidential-candidate-favorables-2019?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/presidential-candidate-favorables-2019",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/85edbfc356ce8ef7b7108c0cbeba456ada5495c1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/presidential-candidate-favorables-2019?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/85edbfc356ce8ef7b7108c0cbeba456ada5495c1",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/presidential-candidate-favorables-2019"
+    }
+  },
+  {
+    "name": "presidential-commencement-speeches",
+    "path": "presidential-commencement-speeches",
+    "sha": "4803331a7674a48a706836e1e5d08c8a8a6c7971",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/presidential-commencement-speeches?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/presidential-commencement-speeches",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/4803331a7674a48a706836e1e5d08c8a8a6c7971",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/presidential-commencement-speeches?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/4803331a7674a48a706836e1e5d08c8a8a6c7971",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/presidential-commencement-speeches"
+    }
+  },
+  {
+    "name": "primary-candidates-2018",
+    "path": "primary-candidates-2018",
+    "sha": "3d22b913f634673d561b70128922517fef81dd2b",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/primary-candidates-2018?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/primary-candidates-2018",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/3d22b913f634673d561b70128922517fef81dd2b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/primary-candidates-2018?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/3d22b913f634673d561b70128922517fef81dd2b",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/primary-candidates-2018"
+    }
+  },
+  {
+    "name": "primary-project-2022",
+    "path": "primary-project-2022",
+    "sha": "bcb7f678fa55b06f64d6f28f8f1d3ebe44db93ea",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/primary-project-2022?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/primary-project-2022",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/bcb7f678fa55b06f64d6f28f8f1d3ebe44db93ea",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/primary-project-2022?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/bcb7f678fa55b06f64d6f28f8f1d3ebe44db93ea",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/primary-project-2022"
+    }
+  },
+  {
+    "name": "puerto-rico-media",
+    "path": "puerto-rico-media",
+    "sha": "f49bdd7fdf67d72a687bfe1c465d6ebfdf1dbfd9",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/puerto-rico-media?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/puerto-rico-media",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/f49bdd7fdf67d72a687bfe1c465d6ebfdf1dbfd9",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/puerto-rico-media?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/f49bdd7fdf67d72a687bfe1c465d6ebfdf1dbfd9",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/puerto-rico-media"
+    }
+  },
+  {
+    "name": "pulitzer",
+    "path": "pulitzer",
+    "sha": "bb23a6a00fdf051f3ba32cadadbe7d5c37656843",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/pulitzer?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/pulitzer",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/bb23a6a00fdf051f3ba32cadadbe7d5c37656843",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/pulitzer?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/bb23a6a00fdf051f3ba32cadadbe7d5c37656843",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/pulitzer"
+    }
+  },
+  {
+    "name": "quiet-caucus-2024",
+    "path": "quiet-caucus-2024",
+    "sha": "c1722a87fdcd11b1085363c3d794080cb8655728",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/quiet-caucus-2024?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/quiet-caucus-2024",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/c1722a87fdcd11b1085363c3d794080cb8655728",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/quiet-caucus-2024?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/c1722a87fdcd11b1085363c3d794080cb8655728",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/quiet-caucus-2024"
+    }
+  },
+  {
+    "name": "rare-pepes",
+    "path": "rare-pepes",
+    "sha": "6044e2cb5e9c6696ed45e5056c6574c6bcdcd13a",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/rare-pepes?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/rare-pepes",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/6044e2cb5e9c6696ed45e5056c6574c6bcdcd13a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/rare-pepes?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/6044e2cb5e9c6696ed45e5056c6574c6bcdcd13a",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/rare-pepes"
+    }
+  },
+  {
+    "name": "redistricting-2022-state-legislatures",
+    "path": "redistricting-2022-state-legislatures",
+    "sha": "116af3b39e853296b739eb3c2b4d753d486e92e5",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/redistricting-2022-state-legislatures?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/redistricting-2022-state-legislatures",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/116af3b39e853296b739eb3c2b4d753d486e92e5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/redistricting-2022-state-legislatures?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/116af3b39e853296b739eb3c2b4d753d486e92e5",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/redistricting-2022-state-legislatures"
+    }
+  },
+  {
+    "name": "redistricting-alternate-maps",
+    "path": "redistricting-alternate-maps",
+    "sha": "3ba11a5f8b0c439ddda777d16834ba28fc46bf4e",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/redistricting-alternate-maps?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/redistricting-alternate-maps",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/3ba11a5f8b0c439ddda777d16834ba28fc46bf4e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/redistricting-alternate-maps?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/3ba11a5f8b0c439ddda777d16834ba28fc46bf4e",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/redistricting-alternate-maps"
+    }
+  },
+  {
+    "name": "redlining",
+    "path": "redlining",
+    "sha": "3f8a6a47788cb8e8c763d2259c1735e86a3b95e3",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/redlining?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/redlining",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/3f8a6a47788cb8e8c763d2259c1735e86a3b95e3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/redlining?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/3f8a6a47788cb8e8c763d2259c1735e86a3b95e3",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/redlining"
+    }
+  },
+  {
+    "name": "region-survey",
+    "path": "region-survey",
+    "sha": "39e71a3ef1c3495dacbefa1130e4f3744af9eb6a",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/region-survey?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/region-survey",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/39e71a3ef1c3495dacbefa1130e4f3744af9eb6a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/region-survey?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/39e71a3ef1c3495dacbefa1130e4f3744af9eb6a",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/region-survey"
+    }
+  },
+  {
+    "name": "religion-survey",
+    "path": "religion-survey",
+    "sha": "b12e6c45b7a492ab2c48e7ccb18772454d16f1ea",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/religion-survey?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/religion-survey",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/b12e6c45b7a492ab2c48e7ccb18772454d16f1ea",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/religion-survey?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/b12e6c45b7a492ab2c48e7ccb18772454d16f1ea",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/religion-survey"
+    }
+  },
+  {
+    "name": "reluctant-trump",
+    "path": "reluctant-trump",
+    "sha": "5f03d6dbb22bc9ae5e18499a98d2d842a880e0ee",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/reluctant-trump?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/reluctant-trump",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/5f03d6dbb22bc9ae5e18499a98d2d842a880e0ee",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/reluctant-trump?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/5f03d6dbb22bc9ae5e18499a98d2d842a880e0ee",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/reluctant-trump"
+    }
+  },
+  {
+    "name": "repeated-phrases-gop",
+    "path": "repeated-phrases-gop",
+    "sha": "105c67a9ba814e515cbfbbd9f4cd1bc5d517ed96",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/repeated-phrases-gop?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/repeated-phrases-gop",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/105c67a9ba814e515cbfbbd9f4cd1bc5d517ed96",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/repeated-phrases-gop?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/105c67a9ba814e515cbfbbd9f4cd1bc5d517ed96",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/repeated-phrases-gop"
+    }
+  },
+  {
+    "name": "riddler-castles",
+    "path": "riddler-castles",
+    "sha": "31559ee0a5e162eef304cdf32c6da67457842365",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/riddler-castles?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/riddler-castles",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/31559ee0a5e162eef304cdf32c6da67457842365",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/riddler-castles?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/31559ee0a5e162eef304cdf32c6da67457842365",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/riddler-castles"
+    }
+  },
+  {
+    "name": "riddler-pick-lowest",
+    "path": "riddler-pick-lowest",
+    "sha": "be4139c638fd8df03fc93479519969a6a0728bbb",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/riddler-pick-lowest?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/riddler-pick-lowest",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/be4139c638fd8df03fc93479519969a6a0728bbb",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/riddler-pick-lowest?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/be4139c638fd8df03fc93479519969a6a0728bbb",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/riddler-pick-lowest"
+    }
+  },
+  {
+    "name": "russia-investigation",
+    "path": "russia-investigation",
+    "sha": "5da9c8632bb91b7fa05bd64f6ade953dadddb06b",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/russia-investigation?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/russia-investigation",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/5da9c8632bb91b7fa05bd64f6ade953dadddb06b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/russia-investigation?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/5da9c8632bb91b7fa05bd64f6ade953dadddb06b",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/russia-investigation"
+    }
+  },
+  {
+    "name": "russian-troll-tweets",
+    "path": "russian-troll-tweets",
+    "sha": "bc7db3614397c0c0f4624b7be7f84032bd92db19",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/russian-troll-tweets?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/russian-troll-tweets",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/bc7db3614397c0c0f4624b7be7f84032bd92db19",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/russian-troll-tweets?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/bc7db3614397c0c0f4624b7be7f84032bd92db19",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/russian-troll-tweets"
+    }
+  },
+  {
+    "name": "san-andreas",
+    "path": "san-andreas",
+    "sha": "964152d4430a0039781882825e3fde9a608b1d5e",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/san-andreas?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/san-andreas",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/964152d4430a0039781882825e3fde9a608b1d5e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/san-andreas?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/964152d4430a0039781882825e3fde9a608b1d5e",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/san-andreas"
+    }
+  },
+  {
+    "name": "sandy-311-calls",
+    "path": "sandy-311-calls",
+    "sha": "aa4eb7c886e3d4badae21e9fb7720a9e47318b60",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/sandy-311-calls?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/sandy-311-calls",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/aa4eb7c886e3d4badae21e9fb7720a9e47318b60",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/sandy-311-calls?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/aa4eb7c886e3d4badae21e9fb7720a9e47318b60",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/sandy-311-calls"
+    }
+  },
+  {
+    "name": "science-giving",
+    "path": "science-giving",
+    "sha": "cc71e10a0fd3d19263973118dc0c2a658d7b176f",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/science-giving?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/science-giving",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/cc71e10a0fd3d19263973118dc0c2a658d7b176f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/science-giving?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/cc71e10a0fd3d19263973118dc0c2a658d7b176f",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/science-giving"
+    }
+  },
+  {
+    "name": "scrabble-games",
+    "path": "scrabble-games",
+    "sha": "8776e29d539a88828e80c95a821940e74e6b424d",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/scrabble-games?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/scrabble-games",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/8776e29d539a88828e80c95a821940e74e6b424d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/scrabble-games?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/8776e29d539a88828e80c95a821940e74e6b424d",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/scrabble-games"
+    }
+  },
+  {
+    "name": "senate-forecast-2018",
+    "path": "senate-forecast-2018",
+    "sha": "52f230da02df3f4a801ac816283b039e707f98c9",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/senate-forecast-2018?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/senate-forecast-2018",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/52f230da02df3f4a801ac816283b039e707f98c9",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/senate-forecast-2018?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/52f230da02df3f4a801ac816283b039e707f98c9",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/senate-forecast-2018"
+    }
+  },
+  {
+    "name": "sleeping-alone-data",
+    "path": "sleeping-alone-data",
+    "sha": "741b76caab85f5cf7d9cecadcb2c03da90f8d20c",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/sleeping-alone-data?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/sleeping-alone-data",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/741b76caab85f5cf7d9cecadcb2c03da90f8d20c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/sleeping-alone-data?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/741b76caab85f5cf7d9cecadcb2c03da90f8d20c",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/sleeping-alone-data"
+    }
+  },
+  {
+    "name": "soccer-spi",
+    "path": "soccer-spi",
+    "sha": "850f8d9479e64265e35ea216040e60ca20758795",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/soccer-spi?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/soccer-spi",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/850f8d9479e64265e35ea216040e60ca20758795",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/soccer-spi?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/850f8d9479e64265e35ea216040e60ca20758795",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/soccer-spi"
+    }
+  },
+  {
+    "name": "special-elections",
+    "path": "special-elections",
+    "sha": "f624b849835ff5d5a95ccfaa6350d29dc3f05cd1",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/special-elections?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/special-elections",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/f624b849835ff5d5a95ccfaa6350d29dc3f05cd1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/special-elections?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/f624b849835ff5d5a95ccfaa6350d29dc3f05cd1",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/special-elections"
+    }
+  },
+  {
+    "name": "sports-political-donations",
+    "path": "sports-political-donations",
+    "sha": "f43cd462fb6f82652083b7b4bfe499ea23b264a1",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/sports-political-donations?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/sports-political-donations",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/f43cd462fb6f82652083b7b4bfe499ea23b264a1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/sports-political-donations?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/f43cd462fb6f82652083b7b4bfe499ea23b264a1",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/sports-political-donations"
+    }
+  },
+  {
+    "name": "star-wars-survey",
+    "path": "star-wars-survey",
+    "sha": "65a0147b6c5ef88e05100ab3fc6b5982f8aadd9e",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/star-wars-survey?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/star-wars-survey",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/65a0147b6c5ef88e05100ab3fc6b5982f8aadd9e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/star-wars-survey?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/65a0147b6c5ef88e05100ab3fc6b5982f8aadd9e",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/star-wars-survey"
+    }
+  },
+  {
+    "name": "state-of-the-polls-2024",
+    "path": "state-of-the-polls-2024",
+    "sha": "99291654db9fde028acbd3fa88f4daccf07e85d2",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/state-of-the-polls-2024?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/state-of-the-polls-2024",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/99291654db9fde028acbd3fa88f4daccf07e85d2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/state-of-the-polls-2024?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/99291654db9fde028acbd3fa88f4daccf07e85d2",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/state-of-the-polls-2024"
+    }
+  },
+  {
+    "name": "state-of-the-state",
+    "path": "state-of-the-state",
+    "sha": "9b175f168a57b5cedb00037aa0d4a3859de64ca0",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/state-of-the-state?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/state-of-the-state",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/9b175f168a57b5cedb00037aa0d4a3859de64ca0",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/state-of-the-state?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/9b175f168a57b5cedb00037aa0d4a3859de64ca0",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/state-of-the-state"
+    }
+  },
+  {
+    "name": "steak-survey",
+    "path": "steak-survey",
+    "sha": "810ca471617187a6468e2a1c0540aecbbb50cfc0",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/steak-survey?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/steak-survey",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/810ca471617187a6468e2a1c0540aecbbb50cfc0",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/steak-survey?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/810ca471617187a6468e2a1c0540aecbbb50cfc0",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/steak-survey"
+    }
+  },
+  {
+    "name": "study-drugs",
+    "path": "study-drugs",
+    "sha": "39511ebd56ae5af144ade540749f697001ea0804",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/study-drugs?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/study-drugs",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/39511ebd56ae5af144ade540749f697001ea0804",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/study-drugs?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/39511ebd56ae5af144ade540749f697001ea0804",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/study-drugs"
+    }
+  },
+  {
+    "name": "subreddit-algebra",
+    "path": "subreddit-algebra",
+    "sha": "0125d3ebe4cd3d69322e24ad763387e0e714c22f",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/subreddit-algebra?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/subreddit-algebra",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/0125d3ebe4cd3d69322e24ad763387e0e714c22f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/subreddit-algebra?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/0125d3ebe4cd3d69322e24ad763387e0e714c22f",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/subreddit-algebra"
+    }
+  },
+  {
+    "name": "tarantino",
+    "path": "tarantino",
+    "sha": "58b168bd71b957336b2ababfb4b5a95c487a315c",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/tarantino?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/tarantino",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/58b168bd71b957336b2ababfb4b5a95c487a315c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/tarantino?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/58b168bd71b957336b2ababfb4b5a95c487a315c",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/tarantino"
+    }
+  },
+  {
+    "name": "tennis-time",
+    "path": "tennis-time",
+    "sha": "9f6db6a4c60ac08c96efcc885138ede320d1612c",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/tennis-time?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/tennis-time",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/9f6db6a4c60ac08c96efcc885138ede320d1612c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/tennis-time?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/9f6db6a4c60ac08c96efcc885138ede320d1612c",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/tennis-time"
+    }
+  },
+  {
+    "name": "tenth-circuit",
+    "path": "tenth-circuit",
+    "sha": "11a4c3cfd2add181c22caddedb10db62207b86e5",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/tenth-circuit?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/tenth-circuit",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/11a4c3cfd2add181c22caddedb10db62207b86e5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/tenth-circuit?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/11a4c3cfd2add181c22caddedb10db62207b86e5",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/tenth-circuit"
+    }
+  },
+  {
+    "name": "terrorism",
+    "path": "terrorism",
+    "sha": "5dd70710b8aff5f1ad0b0139050c2cedd8eec9d4",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/terrorism?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/terrorism",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/5dd70710b8aff5f1ad0b0139050c2cedd8eec9d4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/terrorism?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/5dd70710b8aff5f1ad0b0139050c2cedd8eec9d4",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/terrorism"
+    }
+  },
+  {
+    "name": "thanksgiving-2015",
+    "path": "thanksgiving-2015",
+    "sha": "ed38f421ee58c390a2ae261a2241caaca7e3fb04",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/thanksgiving-2015?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/thanksgiving-2015",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/ed38f421ee58c390a2ae261a2241caaca7e3fb04",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/thanksgiving-2015?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/ed38f421ee58c390a2ae261a2241caaca7e3fb04",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/thanksgiving-2015"
+    }
+  },
+  {
+    "name": "the-big-lies-long-shadow",
+    "path": "the-big-lies-long-shadow",
+    "sha": "1a387918d55d0b63691cbc858042991d43572e3a",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/the-big-lies-long-shadow?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/the-big-lies-long-shadow",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/1a387918d55d0b63691cbc858042991d43572e3a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/the-big-lies-long-shadow?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/1a387918d55d0b63691cbc858042991d43572e3a",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/the-big-lies-long-shadow"
+    }
+  },
+  {
+    "name": "trump-2-poll-issue-questions",
+    "path": "trump-2-poll-issue-questions",
+    "sha": "a5bda9bc7d0c8ea31946eb56d1c8847758760d25",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/trump-2-poll-issue-questions?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/trump-2-poll-issue-questions",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/a5bda9bc7d0c8ea31946eb56d1c8847758760d25",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/trump-2-poll-issue-questions?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/a5bda9bc7d0c8ea31946eb56d1c8847758760d25",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/trump-2-poll-issue-questions"
+    }
+  },
+  {
+    "name": "trump-approval-ratings",
+    "path": "trump-approval-ratings",
+    "sha": "303c3a1811bc15167bfa0ee0eebba793e5995e72",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/trump-approval-ratings?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/trump-approval-ratings",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/303c3a1811bc15167bfa0ee0eebba793e5995e72",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/trump-approval-ratings?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/303c3a1811bc15167bfa0ee0eebba793e5995e72",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/trump-approval-ratings"
+    }
+  },
+  {
+    "name": "trump-lawsuits",
+    "path": "trump-lawsuits",
+    "sha": "defefde9579911cb4aa868d6a19c43ebc8d71698",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/trump-lawsuits?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/trump-lawsuits",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/defefde9579911cb4aa868d6a19c43ebc8d71698",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/trump-lawsuits?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/defefde9579911cb4aa868d6a19c43ebc8d71698",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/trump-lawsuits"
+    }
+  },
+  {
+    "name": "trump-news",
+    "path": "trump-news",
+    "sha": "9fc6a497ea3ecfbbe84158e7c42b61879b0e15df",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/trump-news?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/trump-news",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/9fc6a497ea3ecfbbe84158e7c42b61879b0e15df",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/trump-news?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/9fc6a497ea3ecfbbe84158e7c42b61879b0e15df",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/trump-news"
+    }
+  },
+  {
+    "name": "trump-twitter",
+    "path": "trump-twitter",
+    "sha": "9911046a866c5a33aaa6c115a56dda2512f14690",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/trump-twitter?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/trump-twitter",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/9911046a866c5a33aaa6c115a56dda2512f14690",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/trump-twitter?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/9911046a866c5a33aaa6c115a56dda2512f14690",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/trump-twitter"
+    }
+  },
+  {
+    "name": "trump-world-trust",
+    "path": "trump-world-trust",
+    "sha": "c07fc538e8f300c78baf052ab86b4d3f9dbc1261",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/trump-world-trust?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/trump-world-trust",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/c07fc538e8f300c78baf052ab86b4d3f9dbc1261",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/trump-world-trust?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/c07fc538e8f300c78baf052ab86b4d3f9dbc1261",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/trump-world-trust"
+    }
+  },
+  {
+    "name": "twitter-ratio",
+    "path": "twitter-ratio",
+    "sha": "c0cb821d1dd1005f475773ac6e0d06590d4e86e5",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/twitter-ratio?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/twitter-ratio",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/c0cb821d1dd1005f475773ac6e0d06590d4e86e5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/twitter-ratio?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/c0cb821d1dd1005f475773ac6e0d06590d4e86e5",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/twitter-ratio"
+    }
+  },
+  {
+    "name": "undefeated-boxers",
+    "path": "undefeated-boxers",
+    "sha": "8292cd608963ddbe72dad57da0724d9d0b2f9c62",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/undefeated-boxers?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/undefeated-boxers",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/8292cd608963ddbe72dad57da0724d9d0b2f9c62",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/undefeated-boxers?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/8292cd608963ddbe72dad57da0724d9d0b2f9c62",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/undefeated-boxers"
+    }
+  },
+  {
+    "name": "unisex-names",
+    "path": "unisex-names",
+    "sha": "33d24e177b22d09aec3fbd3e946b2505589d4998",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/unisex-names?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/unisex-names",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/33d24e177b22d09aec3fbd3e946b2505589d4998",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/unisex-names?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/33d24e177b22d09aec3fbd3e946b2505589d4998",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/unisex-names"
+    }
+  },
+  {
+    "name": "urbanization-index",
+    "path": "urbanization-index",
+    "sha": "ea4d52bf59ae164f1f6b7ccc394a64a3230f05e2",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/urbanization-index?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/urbanization-index",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/ea4d52bf59ae164f1f6b7ccc394a64a3230f05e2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/urbanization-index?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/ea4d52bf59ae164f1f6b7ccc394a64a3230f05e2",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/urbanization-index"
+    }
+  },
+  {
+    "name": "us-weather-history",
+    "path": "us-weather-history",
+    "sha": "0c75753318f49d01f6d3bcd703af89ae4c8a6f48",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/us-weather-history?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/us-weather-history",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/0c75753318f49d01f6d3bcd703af89ae4c8a6f48",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/us-weather-history?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/0c75753318f49d01f6d3bcd703af89ae4c8a6f48",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/us-weather-history"
+    }
+  },
+  {
+    "name": "voter-registration",
+    "path": "voter-registration",
+    "sha": "136e69a6adea6306d7471615dc0dcb732fb2cecc",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/voter-registration?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/voter-registration",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/136e69a6adea6306d7471615dc0dcb732fb2cecc",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/voter-registration?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/136e69a6adea6306d7471615dc0dcb732fb2cecc",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/voter-registration"
+    }
+  },
+  {
+    "name": "weather-check",
+    "path": "weather-check",
+    "sha": "dd0f67c713d36bad533a4c8de7c9f40607c99273",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/weather-check?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/weather-check",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/dd0f67c713d36bad533a4c8de7c9f40607c99273",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/weather-check?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/dd0f67c713d36bad533a4c8de7c9f40607c99273",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/weather-check"
+    }
+  },
+  {
+    "name": "wnba-forecasts",
+    "path": "wnba-forecasts",
+    "sha": "228701da54b9ce96c166bc2e00f383538f07e15a",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/wnba-forecasts?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/wnba-forecasts",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/228701da54b9ce96c166bc2e00f383538f07e15a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/wnba-forecasts?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/228701da54b9ce96c166bc2e00f383538f07e15a",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/wnba-forecasts"
+    }
+  },
+  {
+    "name": "womens-world-cup-2019",
+    "path": "womens-world-cup-2019",
+    "sha": "a45041cb4166fd00574d2ce46e294d058f50a3a7",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/womens-world-cup-2019?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/womens-world-cup-2019",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/a45041cb4166fd00574d2ce46e294d058f50a3a7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/womens-world-cup-2019?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/a45041cb4166fd00574d2ce46e294d058f50a3a7",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/womens-world-cup-2019"
+    }
+  },
+  {
+    "name": "womens-world-cup-predictions",
+    "path": "womens-world-cup-predictions",
+    "sha": "a94099c26c08c44afc193cbdad4a678865b56721",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/womens-world-cup-predictions?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/womens-world-cup-predictions",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/a94099c26c08c44afc193cbdad4a678865b56721",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/womens-world-cup-predictions?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/a94099c26c08c44afc193cbdad4a678865b56721",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/womens-world-cup-predictions"
+    }
+  },
+  {
+    "name": "world-cup-2018",
+    "path": "world-cup-2018",
+    "sha": "db9b7506b2b81e1aee8f8067cf0e4341ed6863ee",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/world-cup-2018?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/world-cup-2018",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/db9b7506b2b81e1aee8f8067cf0e4341ed6863ee",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/world-cup-2018?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/db9b7506b2b81e1aee8f8067cf0e4341ed6863ee",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/world-cup-2018"
+    }
+  },
+  {
+    "name": "world-cup-2022",
+    "path": "world-cup-2022",
+    "sha": "c81c381a1d70625fce7c3c54c0e4b797d578db33",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/world-cup-2022?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/world-cup-2022",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/c81c381a1d70625fce7c3c54c0e4b797d578db33",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/world-cup-2022?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/c81c381a1d70625fce7c3c54c0e4b797d578db33",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/world-cup-2022"
+    }
+  },
+  {
+    "name": "world-cup-comparisons",
+    "path": "world-cup-comparisons",
+    "sha": "a02554836c4edc1ed24eee6e23d245040c389810",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/world-cup-comparisons?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/world-cup-comparisons",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/a02554836c4edc1ed24eee6e23d245040c389810",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/world-cup-comparisons?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/a02554836c4edc1ed24eee6e23d245040c389810",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/world-cup-comparisons"
+    }
+  },
+  {
+    "name": "world-cup-predictions",
+    "path": "world-cup-predictions",
+    "sha": "d8b4f386c84981d9225610069381daf386b8d2b5",
+    "size": 0,
+    "url": "https://api.github.com/repos/fivethirtyeight/data/contents/world-cup-predictions?ref=master",
+    "html_url": "https://github.com/fivethirtyeight/data/tree/master/world-cup-predictions",
+    "git_url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/d8b4f386c84981d9225610069381daf386b8d2b5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/fivethirtyeight/data/contents/world-cup-predictions?ref=master",
+      "git": "https://api.github.com/repos/fivethirtyeight/data/git/trees/d8b4f386c84981d9225610069381daf386b8d2b5",
+      "html": "https://github.com/fivethirtyeight/data/tree/master/world-cup-predictions"
+    }
+  }
+]

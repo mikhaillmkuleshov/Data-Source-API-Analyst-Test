@@ -1,0 +1,1232 @@
+[
+  {
+    "sha": "4c1ff5e3aef1816ae04af63218015066e186c147",
+    "node_id": "C_kwDOARAOadoAKDRjMWZmNWUzYWVmMTgxNmFlMDRhZjYzMjE4MDE1MDY2ZTE4NmMxNDc",
+    "commit": {
+      "author": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2025-02-25T19:40:27Z"
+      },
+      "committer": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2025-02-25T19:40:27Z"
+      },
+      "message": "Add data and README for trump-2-poll-issue-questions",
+      "tree": {
+        "sha": "c1770dbfc446cd07923e2847a7ffd76d22c1aab6",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/c1770dbfc446cd07923e2847a7ffd76d22c1aab6"
+      },
+      "url": "https://api.github.com/repos/fivethirtyeight/data/git/commits/4c1ff5e3aef1816ae04af63218015066e186c147",
+      "comment_count": 1,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/fivethirtyeight/data/commits/4c1ff5e3aef1816ae04af63218015066e186c147",
+    "html_url": "https://github.com/fivethirtyeight/data/commit/4c1ff5e3aef1816ae04af63218015066e186c147",
+    "comments_url": "https://api.github.com/repos/fivethirtyeight/data/commits/4c1ff5e3aef1816ae04af63218015066e186c147/comments",
+    "author": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c759809b0524283304345fcf52fe7c576055004c",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/commits/c759809b0524283304345fcf52fe7c576055004c",
+        "html_url": "https://github.com/fivethirtyeight/data/commit/c759809b0524283304345fcf52fe7c576055004c"
+      }
+    ]
+  },
+  {
+    "sha": "c759809b0524283304345fcf52fe7c576055004c",
+    "node_id": "C_kwDOARAOadoAKGM3NTk4MDliMDUyNDI4MzMwNDM0NWZjZjUyZmU3YzU3NjA1NTAwNGM",
+    "commit": {
+      "author": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2025-02-25T19:40:10Z"
+      },
+      "committer": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2025-02-25T19:40:10Z"
+      },
+      "message": "Update index",
+      "tree": {
+        "sha": "a61585ce78c1bfba0adbe78104f0d83224fd8a04",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/a61585ce78c1bfba0adbe78104f0d83224fd8a04"
+      },
+      "url": "https://api.github.com/repos/fivethirtyeight/data/git/commits/c759809b0524283304345fcf52fe7c576055004c",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/fivethirtyeight/data/commits/c759809b0524283304345fcf52fe7c576055004c",
+    "html_url": "https://github.com/fivethirtyeight/data/commit/c759809b0524283304345fcf52fe7c576055004c",
+    "comments_url": "https://api.github.com/repos/fivethirtyeight/data/commits/c759809b0524283304345fcf52fe7c576055004c/comments",
+    "author": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "fcf572c4fba05a42f1f34f415bd5e6dc389efd68",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/commits/fcf572c4fba05a42f1f34f415bd5e6dc389efd68",
+        "html_url": "https://github.com/fivethirtyeight/data/commit/fcf572c4fba05a42f1f34f415bd5e6dc389efd68"
+      }
+    ]
+  },
+  {
+    "sha": "fcf572c4fba05a42f1f34f415bd5e6dc389efd68",
+    "node_id": "C_kwDOARAOadoAKGZjZjU3MmM0ZmJhMDVhNDJmMWYzNGY0MTViZDVlNmRjMzg5ZWZkNjg",
+    "commit": {
+      "author": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-10-28T20:55:03Z"
+      },
+      "committer": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-10-28T20:55:03Z"
+      },
+      "message": "Update index.csv",
+      "tree": {
+        "sha": "33d413749822e36c40b29aad8f9997ff7e8dbc66",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/33d413749822e36c40b29aad8f9997ff7e8dbc66"
+      },
+      "url": "https://api.github.com/repos/fivethirtyeight/data/git/commits/fcf572c4fba05a42f1f34f415bd5e6dc389efd68",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/fivethirtyeight/data/commits/fcf572c4fba05a42f1f34f415bd5e6dc389efd68",
+    "html_url": "https://github.com/fivethirtyeight/data/commit/fcf572c4fba05a42f1f34f415bd5e6dc389efd68",
+    "comments_url": "https://api.github.com/repos/fivethirtyeight/data/commits/fcf572c4fba05a42f1f34f415bd5e6dc389efd68/comments",
+    "author": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7cf17c399d4eae4fd1a4f9770a53dab4b9ab9464",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/commits/7cf17c399d4eae4fd1a4f9770a53dab4b9ab9464",
+        "html_url": "https://github.com/fivethirtyeight/data/commit/7cf17c399d4eae4fd1a4f9770a53dab4b9ab9464"
+      }
+    ]
+  },
+  {
+    "sha": "7cf17c399d4eae4fd1a4f9770a53dab4b9ab9464",
+    "node_id": "C_kwDOARAOadoAKDdjZjE3YzM5OWQ0ZWFlNGZkMWE0Zjk3NzBhNTNkYWI0YjlhYjk0NjQ",
+    "commit": {
+      "author": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-10-28T20:53:56Z"
+      },
+      "committer": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-10-28T20:53:56Z"
+      },
+      "message": "Add data and README for state-of-the-polls-2024",
+      "tree": {
+        "sha": "a4c32ade1704094e6df67627297a57591702566e",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/a4c32ade1704094e6df67627297a57591702566e"
+      },
+      "url": "https://api.github.com/repos/fivethirtyeight/data/git/commits/7cf17c399d4eae4fd1a4f9770a53dab4b9ab9464",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/fivethirtyeight/data/commits/7cf17c399d4eae4fd1a4f9770a53dab4b9ab9464",
+    "html_url": "https://github.com/fivethirtyeight/data/commit/7cf17c399d4eae4fd1a4f9770a53dab4b9ab9464",
+    "comments_url": "https://api.github.com/repos/fivethirtyeight/data/commits/7cf17c399d4eae4fd1a4f9770a53dab4b9ab9464/comments",
+    "author": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e6bbbb2d35310b5c63c2995a0d03d582d0c7b2e6",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/commits/e6bbbb2d35310b5c63c2995a0d03d582d0c7b2e6",
+        "html_url": "https://github.com/fivethirtyeight/data/commit/e6bbbb2d35310b5c63c2995a0d03d582d0c7b2e6"
+      }
+    ]
+  },
+  {
+    "sha": "e6bbbb2d35310b5c63c2995a0d03d582d0c7b2e6",
+    "node_id": "C_kwDOARAOadoAKGU2YmJiYjJkMzUzMTBiNWM2M2MyOTk1YTBkMDNkNTgyZDBjN2IyZTY",
+    "commit": {
+      "author": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-09-13T16:04:05Z"
+      },
+      "committer": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-09-13T16:04:05Z"
+      },
+      "message": "Update 2024 polling averages",
+      "tree": {
+        "sha": "900e91a02ca4669e378a8d9ae0dcfc455fb12272",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/900e91a02ca4669e378a8d9ae0dcfc455fb12272"
+      },
+      "url": "https://api.github.com/repos/fivethirtyeight/data/git/commits/e6bbbb2d35310b5c63c2995a0d03d582d0c7b2e6",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/fivethirtyeight/data/commits/e6bbbb2d35310b5c63c2995a0d03d582d0c7b2e6",
+    "html_url": "https://github.com/fivethirtyeight/data/commit/e6bbbb2d35310b5c63c2995a0d03d582d0c7b2e6",
+    "comments_url": "https://api.github.com/repos/fivethirtyeight/data/commits/e6bbbb2d35310b5c63c2995a0d03d582d0c7b2e6/comments",
+    "author": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "46b626e9292587ff394d7aa6d02f45dc06697cc8",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/commits/46b626e9292587ff394d7aa6d02f45dc06697cc8",
+        "html_url": "https://github.com/fivethirtyeight/data/commit/46b626e9292587ff394d7aa6d02f45dc06697cc8"
+      }
+    ]
+  },
+  {
+    "sha": "46b626e9292587ff394d7aa6d02f45dc06697cc8",
+    "node_id": "C_kwDOARAOadoAKDQ2YjYyNmU5MjkyNTg3ZmYzOTRkN2FhNmQwMmY0NWRjMDY2OTdjYzg",
+    "commit": {
+      "author": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-09-13T15:42:42Z"
+      },
+      "committer": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-09-13T15:42:42Z"
+      },
+      "message": "Update pollster ratings 2024 data",
+      "tree": {
+        "sha": "9e8a42c655d44ad195364721a85a5daf56520f68",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/9e8a42c655d44ad195364721a85a5daf56520f68"
+      },
+      "url": "https://api.github.com/repos/fivethirtyeight/data/git/commits/46b626e9292587ff394d7aa6d02f45dc06697cc8",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/fivethirtyeight/data/commits/46b626e9292587ff394d7aa6d02f45dc06697cc8",
+    "html_url": "https://github.com/fivethirtyeight/data/commit/46b626e9292587ff394d7aa6d02f45dc06697cc8",
+    "comments_url": "https://api.github.com/repos/fivethirtyeight/data/commits/46b626e9292587ff394d7aa6d02f45dc06697cc8/comments",
+    "author": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "cdac9b8cc525a499d1cf36fa079a7127b56aebc6",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/commits/cdac9b8cc525a499d1cf36fa079a7127b56aebc6",
+        "html_url": "https://github.com/fivethirtyeight/data/commit/cdac9b8cc525a499d1cf36fa079a7127b56aebc6"
+      }
+    ]
+  },
+  {
+    "sha": "cdac9b8cc525a499d1cf36fa079a7127b56aebc6",
+    "node_id": "C_kwDOARAOadoAKGNkYWM5YjhjYzUyNWE0OTlkMWNmMzZmYTA3OWE3MTI3YjU2YWViYzY",
+    "commit": {
+      "author": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-05-03T17:09:17Z"
+      },
+      "committer": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-05-03T17:09:17Z"
+      },
+      "message": "Removed Max Miller from Freedom Caucus (see correction in article)",
+      "tree": {
+        "sha": "dd14caa40223d717e42168132a6dd6139012232a",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/dd14caa40223d717e42168132a6dd6139012232a"
+      },
+      "url": "https://api.github.com/repos/fivethirtyeight/data/git/commits/cdac9b8cc525a499d1cf36fa079a7127b56aebc6",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/fivethirtyeight/data/commits/cdac9b8cc525a499d1cf36fa079a7127b56aebc6",
+    "html_url": "https://github.com/fivethirtyeight/data/commit/cdac9b8cc525a499d1cf36fa079a7127b56aebc6",
+    "comments_url": "https://api.github.com/repos/fivethirtyeight/data/commits/cdac9b8cc525a499d1cf36fa079a7127b56aebc6/comments",
+    "author": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "cc063f24d2903935e95e85fb714bdcb72e4c503a",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/commits/cc063f24d2903935e95e85fb714bdcb72e4c503a",
+        "html_url": "https://github.com/fivethirtyeight/data/commit/cc063f24d2903935e95e85fb714bdcb72e4c503a"
+      }
+    ]
+  },
+  {
+    "sha": "cc063f24d2903935e95e85fb714bdcb72e4c503a",
+    "node_id": "C_kwDOARAOadoAKGNjMDYzZjI0ZDI5MDM5MzVlOTVlODVmYjcxNGJkY2I3MmU0YzUwM2E",
+    "commit": {
+      "author": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-05-01T15:06:21Z"
+      },
+      "committer": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-05-01T15:06:21Z"
+      },
+      "message": "Update index.csv",
+      "tree": {
+        "sha": "438a71261510e4a91efede843c74783e80252adf",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/438a71261510e4a91efede843c74783e80252adf"
+      },
+      "url": "https://api.github.com/repos/fivethirtyeight/data/git/commits/cc063f24d2903935e95e85fb714bdcb72e4c503a",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/fivethirtyeight/data/commits/cc063f24d2903935e95e85fb714bdcb72e4c503a",
+    "html_url": "https://github.com/fivethirtyeight/data/commit/cc063f24d2903935e95e85fb714bdcb72e4c503a",
+    "comments_url": "https://api.github.com/repos/fivethirtyeight/data/commits/cc063f24d2903935e95e85fb714bdcb72e4c503a/comments",
+    "author": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "1869a89f5422e3a91145fa076ee28c84aece3bf6",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/commits/1869a89f5422e3a91145fa076ee28c84aece3bf6",
+        "html_url": "https://github.com/fivethirtyeight/data/commit/1869a89f5422e3a91145fa076ee28c84aece3bf6"
+      }
+    ]
+  },
+  {
+    "sha": "1869a89f5422e3a91145fa076ee28c84aece3bf6",
+    "node_id": "C_kwDOARAOadoAKDE4NjlhODlmNTQyMmUzYTkxMTQ1ZmEwNzZlZTI4Yzg0YWVjZTNiZjY",
+    "commit": {
+      "author": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-05-01T15:06:00Z"
+      },
+      "committer": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-05-01T15:06:00Z"
+      },
+      "message": "Add data and README for quiet-caucus-2024",
+      "tree": {
+        "sha": "0ce5d496f303a405e9beef59344fd0adfc8a6aae",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/0ce5d496f303a405e9beef59344fd0adfc8a6aae"
+      },
+      "url": "https://api.github.com/repos/fivethirtyeight/data/git/commits/1869a89f5422e3a91145fa076ee28c84aece3bf6",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/fivethirtyeight/data/commits/1869a89f5422e3a91145fa076ee28c84aece3bf6",
+    "html_url": "https://github.com/fivethirtyeight/data/commit/1869a89f5422e3a91145fa076ee28c84aece3bf6",
+    "comments_url": "https://api.github.com/repos/fivethirtyeight/data/commits/1869a89f5422e3a91145fa076ee28c84aece3bf6/comments",
+    "author": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "22b47c27b317c87df560c2dc5c980d3bb6999ee7",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/commits/22b47c27b317c87df560c2dc5c980d3bb6999ee7",
+        "html_url": "https://github.com/fivethirtyeight/data/commit/22b47c27b317c87df560c2dc5c980d3bb6999ee7"
+      }
+    ]
+  },
+  {
+    "sha": "22b47c27b317c87df560c2dc5c980d3bb6999ee7",
+    "node_id": "C_kwDOARAOadoAKDIyYjQ3YzI3YjMxN2M4N2RmNTYwYzJkYzVjOTgwZDNiYjY5OTllZTc",
+    "commit": {
+      "author": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-03-06T17:00:06Z"
+      },
+      "committer": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-03-06T17:00:06Z"
+      },
+      "message": "Update README",
+      "tree": {
+        "sha": "9efde315c38492ba9d53ddef87975105c995f1b7",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/9efde315c38492ba9d53ddef87975105c995f1b7"
+      },
+      "url": "https://api.github.com/repos/fivethirtyeight/data/git/commits/22b47c27b317c87df560c2dc5c980d3bb6999ee7",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/fivethirtyeight/data/commits/22b47c27b317c87df560c2dc5c980d3bb6999ee7",
+    "html_url": "https://github.com/fivethirtyeight/data/commit/22b47c27b317c87df560c2dc5c980d3bb6999ee7",
+    "comments_url": "https://api.github.com/repos/fivethirtyeight/data/commits/22b47c27b317c87df560c2dc5c980d3bb6999ee7/comments",
+    "author": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "35d45632833e38806a6489c57e01c9f51cefae70",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/commits/35d45632833e38806a6489c57e01c9f51cefae70",
+        "html_url": "https://github.com/fivethirtyeight/data/commit/35d45632833e38806a6489c57e01c9f51cefae70"
+      }
+    ]
+  },
+  {
+    "sha": "35d45632833e38806a6489c57e01c9f51cefae70",
+    "node_id": "C_kwDOARAOadoAKDM1ZDQ1NjMyODMzZTM4ODA2YTY0ODljNTdlMDFjOWY1MWNlZmFlNzA",
+    "commit": {
+      "author": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-03-06T16:59:43Z"
+      },
+      "committer": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-03-06T16:59:43Z"
+      },
+      "message": "Add updated data",
+      "tree": {
+        "sha": "f72e995b3e611a4e859d32a91379bf19254d02cd",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/f72e995b3e611a4e859d32a91379bf19254d02cd"
+      },
+      "url": "https://api.github.com/repos/fivethirtyeight/data/git/commits/35d45632833e38806a6489c57e01c9f51cefae70",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/fivethirtyeight/data/commits/35d45632833e38806a6489c57e01c9f51cefae70",
+    "html_url": "https://github.com/fivethirtyeight/data/commit/35d45632833e38806a6489c57e01c9f51cefae70",
+    "comments_url": "https://api.github.com/repos/fivethirtyeight/data/commits/35d45632833e38806a6489c57e01c9f51cefae70/comments",
+    "author": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "3fcd776f96d3324e15bd5f92e8820dd97c89a6c9",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/commits/3fcd776f96d3324e15bd5f92e8820dd97c89a6c9",
+        "html_url": "https://github.com/fivethirtyeight/data/commit/3fcd776f96d3324e15bd5f92e8820dd97c89a6c9"
+      }
+    ]
+  },
+  {
+    "sha": "3fcd776f96d3324e15bd5f92e8820dd97c89a6c9",
+    "node_id": "C_kwDOARAOadoAKDNmY2Q3NzZmOTZkMzMyNGUxNWJkNWY5MmU4ODIwZGQ5N2M4OWE2Yzk",
+    "commit": {
+      "author": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-03-06T16:59:13Z"
+      },
+      "committer": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-03-06T16:59:13Z"
+      },
+      "message": "Rename previous data from 1/11",
+      "tree": {
+        "sha": "4333cbea7a9c0e3b2af77fa31dbbc754ba8b2338",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/4333cbea7a9c0e3b2af77fa31dbbc754ba8b2338"
+      },
+      "url": "https://api.github.com/repos/fivethirtyeight/data/git/commits/3fcd776f96d3324e15bd5f92e8820dd97c89a6c9",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/fivethirtyeight/data/commits/3fcd776f96d3324e15bd5f92e8820dd97c89a6c9",
+    "html_url": "https://github.com/fivethirtyeight/data/commit/3fcd776f96d3324e15bd5f92e8820dd97c89a6c9",
+    "comments_url": "https://api.github.com/repos/fivethirtyeight/data/commits/3fcd776f96d3324e15bd5f92e8820dd97c89a6c9/comments",
+    "author": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c41eb3abbb853b4cb4b63e6688c536f3bbd60263",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/commits/c41eb3abbb853b4cb4b63e6688c536f3bbd60263",
+        "html_url": "https://github.com/fivethirtyeight/data/commit/c41eb3abbb853b4cb4b63e6688c536f3bbd60263"
+      }
+    ]
+  },
+  {
+    "sha": "c41eb3abbb853b4cb4b63e6688c536f3bbd60263",
+    "node_id": "C_kwDOARAOadoAKGM0MWViM2FiYmI4NTNiNGNiNGI2M2U2Njg4YzUzNmYzYmJkNjAyNjM",
+    "commit": {
+      "author": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-03-01T16:27:58Z"
+      },
+      "committer": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-03-01T16:27:58Z"
+      },
+      "message": "Update pollster ratings 2024 data",
+      "tree": {
+        "sha": "f0d78b6eb9f5b4930332fdebaf61feb4f52d5c3b",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/f0d78b6eb9f5b4930332fdebaf61feb4f52d5c3b"
+      },
+      "url": "https://api.github.com/repos/fivethirtyeight/data/git/commits/c41eb3abbb853b4cb4b63e6688c536f3bbd60263",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/fivethirtyeight/data/commits/c41eb3abbb853b4cb4b63e6688c536f3bbd60263",
+    "html_url": "https://github.com/fivethirtyeight/data/commit/c41eb3abbb853b4cb4b63e6688c536f3bbd60263",
+    "comments_url": "https://api.github.com/repos/fivethirtyeight/data/commits/c41eb3abbb853b4cb4b63e6688c536f3bbd60263/comments",
+    "author": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "606ef10202b8a4d1719d34ba81f15c9a16f46754",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/commits/606ef10202b8a4d1719d34ba81f15c9a16f46754",
+        "html_url": "https://github.com/fivethirtyeight/data/commit/606ef10202b8a4d1719d34ba81f15c9a16f46754"
+      }
+    ]
+  },
+  {
+    "sha": "606ef10202b8a4d1719d34ba81f15c9a16f46754",
+    "node_id": "C_kwDOARAOadoAKDYwNmVmMTAyMDJiOGE0ZDE3MTlkMzRiYTgxZjE1YzlhMTZmNDY3NTQ",
+    "commit": {
+      "author": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-02-26T15:06:09Z"
+      },
+      "committer": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-02-26T15:06:09Z"
+      },
+      "message": "Update with SC results",
+      "tree": {
+        "sha": "5b7f2162fffc4c83ee9b7b6fe6bf1e105a8b2d07",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/5b7f2162fffc4c83ee9b7b6fe6bf1e105a8b2d07"
+      },
+      "url": "https://api.github.com/repos/fivethirtyeight/data/git/commits/606ef10202b8a4d1719d34ba81f15c9a16f46754",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/fivethirtyeight/data/commits/606ef10202b8a4d1719d34ba81f15c9a16f46754",
+    "html_url": "https://github.com/fivethirtyeight/data/commit/606ef10202b8a4d1719d34ba81f15c9a16f46754",
+    "comments_url": "https://api.github.com/repos/fivethirtyeight/data/commits/606ef10202b8a4d1719d34ba81f15c9a16f46754/comments",
+    "author": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "cb23f2751619a83892d854cc286cad782b909d0c",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/commits/cb23f2751619a83892d854cc286cad782b909d0c",
+        "html_url": "https://github.com/fivethirtyeight/data/commit/cb23f2751619a83892d854cc286cad782b909d0c"
+      }
+    ]
+  },
+  {
+    "sha": "cb23f2751619a83892d854cc286cad782b909d0c",
+    "node_id": "C_kwDOARAOadoAKGNiMjNmMjc1MTYxOWE4Mzg5MmQ4NTRjYzI4NmNhZDc4MmI5MDlkMGM",
+    "commit": {
+      "author": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-02-26T15:05:47Z"
+      },
+      "committer": {
+        "name": "hfuong",
+        "email": "holly.fuong@gmail.com",
+        "date": "2024-02-26T15:05:47Z"
+      },
+      "message": "Move old delegate targets",
+      "tree": {
+        "sha": "a0462c61a83878ce6f11abce40f924489990eeac",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/git/trees/a0462c61a83878ce6f11abce40f924489990eeac"
+      },
+      "url": "https://api.github.com/repos/fivethirtyeight/data/git/commits/cb23f2751619a83892d854cc286cad782b909d0c",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/fivethirtyeight/data/commits/cb23f2751619a83892d854cc286cad782b909d0c",
+    "html_url": "https://github.com/fivethirtyeight/data/commit/cb23f2751619a83892d854cc286cad782b909d0c",
+    "comments_url": "https://api.github.com/repos/fivethirtyeight/data/commits/cb23f2751619a83892d854cc286cad782b909d0c/comments",
+    "author": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "hfuong",
+      "id": 61800622,
+      "node_id": "MDQ6VXNlcjYxODAwNjIy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61800622?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hfuong",
+      "html_url": "https://github.com/hfuong",
+      "followers_url": "https://api.github.com/users/hfuong/followers",
+      "following_url": "https://api.github.com/users/hfuong/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hfuong/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hfuong/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hfuong/subscriptions",
+      "organizations_url": "https://api.github.com/users/hfuong/orgs",
+      "repos_url": "https://api.github.com/users/hfuong/repos",
+      "events_url": "https://api.github.com/users/hfuong/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hfuong/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "76c471a9124d690ba92709ca21cbfcdde226b44e",
+        "url": "https://api.github.com/repos/fivethirtyeight/data/commits/76c471a9124d690ba92709ca21cbfcdde226b44e",
+        "html_url": "https://github.com/fivethirtyeight/data/commit/76c471a9124d690ba92709ca21cbfcdde226b44e"
+      }
+    ]
+  }
+]
