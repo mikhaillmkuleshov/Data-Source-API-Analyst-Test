@@ -7,6 +7,7 @@ Goal: demonstrate API research + extraction using GitHub API:
 - Fetch commits
 - Fetch repository contents
 
+## Artifacts
 Artifacts will be added:
 - Google Colab notebook (.ipynb)
 - API documentation and troubleshooting guides
